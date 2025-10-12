@@ -45,6 +45,10 @@
         "typeinfo": "cpp",
         "unordered_set": "cpp",
         "map": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "random": "cpp"
     }
 }
